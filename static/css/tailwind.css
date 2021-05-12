@@ -1,0 +1,14 @@
+/*
+Theme Name: IK WP TIMBER THEME
+Theme URI: https://sitepro4web.com
+Author: Ihor Khaletskyi
+Author URI: https://sitepro4web.com
+Description: ik wp timber theme
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ik-wp-timber-theme
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
